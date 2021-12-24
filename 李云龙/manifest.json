@@ -1,0 +1,74 @@
+{
+    "name": "李云龙",
+    "display-name": "李云龙语音包 (zh)",
+    "version": "0.0.1",
+    "avatar": "avatar.jpg",
+    "avatar-dark":"avatar.jpg",
+    "author": "Surager",
+    "gender": "male",
+    "locale": "zh",
+    "description": "赏你半斤地瓜烧",
+    "languages": [
+        "java",
+        "cpp"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["main","class"],
+        	"voices": [
+        		"我李云龙别的能耐没有，就他娘的会抢.mp3"
+        	]
+        },
+        {
+        	"keywords": ["int","double","float","static"],
+        	"voices": [
+        		"想想办法干他一炮.mp3"
+        	]
+        },
+        {
+        	"keywords":"void",
+        	"voices":[
+        		"谢谢你啦.mp3"
+        	]
+        },
+        {
+        	"keywords": ["if","else"],
+        	"voices": [
+        		"你他娘的意大利炮呢.mp3"
+        	]
+        },
+        {
+        	"keywords": ["for","while"],
+        	"voices":[
+        		"龙哥骂人语段.mp3",
+				"开炮.mp3"
+        	]
+        },
+        {
+        	"keywords":["try","catch"],
+        	"voices":[
+				"哪个狗日的打我小报告.mp3",
+        		"你怕什么啊你.mp3"
+        	]
+        },
+        {
+        	"keywords":["new"],
+        	"voices":[
+        		"你他娘的还真是个天才.mp3",
+				"这就对了.mp3"
+        	]
+        },
+        {
+        	"keywords":["public","private"],
+        	"voices":[
+        		"你他娘的意大利炮呢.mp3"
+        	]
+        },
+        {
+        	"keywords":["return"],
+        	"voices":[
+        		"谢谢你啦.mp3"
+        	]
+        }
+    ]
+}
